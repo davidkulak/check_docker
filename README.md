@@ -1,2 +1,5 @@
 # check_docker
-Bash Script to check docker and containers status
+Nagios/Shinken plugin to check docker and containers state.
+
+## Sample Output
+    OK - Docker engine running. | containers=1 images=4
