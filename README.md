@@ -1,5 +1,5 @@
 # check_docker
-Nagios/Shinken plugin to check docker and containers state.
+Nagios/Shinken plugin to check docker engine and containers state.
 
 ## Usage
     usage: check_docker [-h] [-H SOCKET] [-c CONTAINER]
